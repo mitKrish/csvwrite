@@ -15,7 +15,7 @@
     "express-session": "^1.15.6",
     "http-errors": "^1.6.2",
     "mongodb": "^3.0.4",
-    "mongoose": "^5.6.1"
+    "mongoose": "^5.7.5"
   },
   "description": "Report Generator",
   "main": "app.js",
